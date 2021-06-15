@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Adrian
 - 👀 I’m interested in Full Stack Development
-- 💞️ I’m looking to collaborate on Full Stack projects
+- 💞️ I’m looking to collaborate on Full Stack open-source projects
 - 📫 How to reach me - adrianj1903@gmail.com
